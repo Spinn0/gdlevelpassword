@@ -1,5 +1,5 @@
 # GD Level Password
-Get the copy passcode of any level on Geometry Dash's servers.
+Get the copy passcode of any level, from Geometry Dash's servers.
 
 # Usage
 ```
@@ -17,3 +17,6 @@ Insert the following code into the file, and replace the username and password w
 GD_USERNAME=YourUsernameHere
 GD_PASSWORD=YourPasswordHere
 ```
+
+# Window closing?
+Please run the script in a terminal (Terminal, Command Prompt, Powershell, etc.) to see output.
